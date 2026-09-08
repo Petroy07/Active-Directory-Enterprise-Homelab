@@ -4,7 +4,7 @@
 
 ### Domain Controller Verification
 DC01 was configured as the domain controller for the `rizzytech.local` domain.
-![DC01 Verification](DC01-Verification.png.png)
+![DC01 Verification](01-DC01-Verification.png.png)
 
 ### Active Directory Domain Services and DNS
 Active Directory Domain Services and DNS were installed on Windows Server.
