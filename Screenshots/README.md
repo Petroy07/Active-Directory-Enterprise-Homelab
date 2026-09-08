@@ -26,4 +26,7 @@ Global security groups were created for each department to manage access and per
 
 ### Active Directory Users
 Test employee accounts were created and placed into their appropriate departmental OUs.
-![AD Users](06-user-1.png06-user-2.png06-user-3.png06-user-4.png)
+![AD User1](06-user-1.png)
+![AD User2](06-user-2.png)
+![AD User3](06-user-3.png)
+1[AD User4](06-user-4.png)
