@@ -29,4 +29,4 @@ Test employee accounts were created and placed into their appropriate department
 ![AD User1](06-user-1.png)
 ![AD User2](06-user-2.png)
 ![AD User3](06-user-3.png)
-1[AD User4](06-user-4.png)
+![AD User4](06-user-4.png)
